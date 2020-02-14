@@ -1,56 +1,42 @@
 <!DOCTYPE HTML>
 <!--
-    Alpha by HTML5 UP
+    Arcana by HTML5 UP
     html5up.net | @ajlkn
     Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
+
     {% include head.html %}
-    <body class="landing is-preload">
-        <div id="page-wrapper"><a name="top"></a>
+
+    <body class="is-preload">
+        <div id="page-wrapper">
 
             <!-- Header -->
-                <header id="header" class="alt">
-                    <h1><a href="index.html"></a></h1>
+                <div id="header">
+
+                    <h1><a href="/" id="logo">{{ site.title }}</a></h1>                    
+
                     {% include top-nav.html %}
-                </header>
+
+                </div>
 
             <!-- Banner -->
                 <section id="banner">
-                    <div id="banner-text" class="col-8 col-12-mobilep">
-                        <h2>{{ page.title }}</h2>
-                        <p class="subtitle">{{ page.subtitle }}</p>
-                    </div>
+                    <header>
+                        <h2><em>Providing quality training to meet your mandatory requirements and beyond</em></h2>
+                        
+                        <a href="#" class="button">Learn More</a>
+                    </header>
                 </section>
 
-            <!-- Main -->
-                <section id="main" class="container">
-
-
-                    <section class="box special">
-                        <header class="major">
-                            <h2>Providing quality training to meet your 
-                            <br />
-                            mandatory requirements and beyond</h2>
-                            
-                        </header>
-                        <!--<span class="image featured"><img src="images/pic01.jpg" alt="" /></span>-->
-                    </section>
-
-                    <section>
-                        {{ content }}
-                    </section>
-
-                    
-
-            <!-- CTA -->
-                
+            {{ content }}
 
             {% include footer.html %}
 
         </div>
 
-    {% include scripts.html %}
+        {% include scripts.html %}
 
     </body>
 </html>
+
