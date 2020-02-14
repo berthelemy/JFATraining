@@ -15,3 +15,12 @@
     width: 100%;
     z-index: 1000;
 }
+
+#banner h1 {
+    font-size: 4em;
+    padding-top: 1.5em;
+}
+
+.wrapper {
+    margin-top: 3em;
+}
