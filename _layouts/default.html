@@ -18,13 +18,14 @@
             <!-- Banner -->
                 <section id="banner">
                     <div id="banner-text" class="col-8 col-12-mobilep">
-                        <h2>{{ site.title }}</h2>
+                        <h2>{{ page.title }}</h2>
                         <p class="subtitle">{{ page.subtitle }}</p>
                     </div>
                 </section>
 
             <!-- Main -->
                 <section id="main" class="container">
+
 
                     <section class="box special">
                         <header class="major">
@@ -36,211 +37,20 @@
                         <!--<span class="image featured"><img src="images/pic01.jpg" alt="" /></span>-->
                     </section>
 
-                    <section class="box special features">
-                        <a name="courses"></a><h2>Courses</h2>
-                        <div class="features-row">
-                            <section>
-                                <span class="icon solid major fa-first-aid accent3"></span>
-                                <h3>Emergency First Aid at Work</h3>
-                                <p class="emphasis">ITC Level 3 Award</p>
-                                <p>Topics include:</p>
-                                    <ul>
-                                        <li>roles &amp; responsibilities</li>
-                                        <li>assessing incidents</li>
-                                        <li>dealing with collapse (with and without breathing)</li>
-                                        <li>choking</li>
-                                        <li>bleeding</li>
-                                        <li>shock</li>
-                                        <li>seizures</li>
-                                        <li>minor workplace incidents</li>
-                                        <li>using first aid kit</li>
-                                    </ul>
-
-                                <p>This qualification is designed to provide essential life saving skills. Typical delivery methods are predominantly practical and the course is assessed by continual observation of candidate performance.</p>
-                                <p><a href="https://www.itcfirst.org.uk/qualifications/itc-level-3-award-in-emergency-first-aid-at-work/95.htm" target="_blank">More information on the ITC qualification</a></p>
-                            </section>
-                            <section>
-                                <span class="icon solid major fa-first-aid accent3"></span>
-                                <h3>First Aid at Work</h3>
-                                <p class="emphasis">ITC Level 3 Award</p>
-                                <p>Topics include:</p>
-                                    <ul>
-                                        <li>roles &amp; responsibilities</li>
-                                        <li>dealing with collapse (with and without breathing)</li>
-                                        <li>choking</li>
-                                        <li>bleeding</li>
-                                        <li>shock</li>
-                                        <li>seizures</li>
-                                        <li>minor workplace incidents</li>
-                                        <li>major illnesses</li>
-                                        <li>common and serious workplace injuries</li>
-                                        <li>poisoning</li>
-                                        <li>anaphylactic shock</li>
-                                        <li>burns treatment</li>
-                                        <li>eye injuries</li>
-                                        <li>using first aid kit</li>
-                                    </ul>
-
-                                <p>Typical delivery methods are predominantly practical and the course is assessed by continual observation of candidate performance.</p>
-                                <p><a href="https://www.itcfirst.org.uk/qualifications/itc-level-3-award-in-first-aid-at-work/26.htm" target="_blank">More information on the ITC qualification</a></p>
-                            </section>
-                        </div>
-                        
-                    </section>
-                    <section class="box special features">
-                        <div class="features-row">
-                            <section>
-                                <span class="icon solid major fa-first-aid accent3"></span>
-                                <h3>Paediatric First Aid</h3>
-                                <p class="emphasis">ITC Level 3 Award</p>
-                                <p>This course covers planning for and dealing with first aid emergencies involving babies and children, including:</p>
-                                    <ul>
-                                        <li>CPR</li>
-                                        <li>shock</li>
-                                        <li>anaphylactic shock</li>
-                                        <li>electric shock</li>
-                                        <li>bleeding</li>
-                                        <li>burns and scalds</li>
-                                        <li>choking</li>
-                                        <li>suspected fractures</li>
-                                        <li>head, neck and back injuries</li>
-                                        <li>poisoning</li>
-                                        <li>foreign bodies in eyes, ears and noses</li>
-                                        <li>eye injuries</li>
-                                        <li>bites and stings</li>
-                                        <li>effects of extreme heat and cold</li>
-                                        <li>febrile convulsions</li>
-                                        <li>chronic medical conditions including epilepsy, asthma, diabetes, meningitis and other serious sudden illness</li>
-                                    </ul>
-
-                                <p>This qualification is designed to provide essential paediatric life saving skills and paediatric incident management.  Typical delivery methods are predominantly practical and the course is assessed by continual observation of candidate performance.</p>
-                                <p><a href="https://www.itcfirst.org.uk/qualifications/itc-level-3-award-in-paediatric-first-aid/30.htm" target="_blank">More information on the ITC qualification</a></p>
-                            </section>
-                            <section>
-                                <span class="icon solid major fa-first-aid accent3"></span>
-                                <h3>First Aid at Work</h3>
-                                <p class="emphasis">ITC Level 3 Award</p>
-                                <p>Topics include:</p>
-                                    <ul>
-                                        <li>roles &amp; responsibilities</li>
-                                        <li>dealing with collapse (with and without breathing)</li>
-                                        <li>choking</li>
-                                        <li>bleeding</li>
-                                        <li>shock</li>
-                                        <li>major illnesses</li>
-                                        <li>torso and limb injuries</li>
-                                        <li>environmental effects</li>
-                                        <li>heat and cold injuries</li>
-                                        <li>using first aid kit</li>
-                                        <li>outdoor specific scenarios and outdoor incident management</li>
-                                        <li>answering queries such as when or how to remove boot and helmets</li>
-                                        <li>looking after a casualty for some hours</li>
-                                    </ul>
-
-                                <p>This qualification is designed to provide outdoor incident management skills. Typical delivery methods are predominantly practical, with elements occurring out of doors in outdoor clothing and on various terrains. The course is assessed by continual observation of candidate performance.</p>
-                                <p><a href="https://www.itcfirst.org.uk/qualifications/itc-level-3-award-in-outdoor-first-aid/32.htm" target="_blank">More information on the ITC qualification</a></p>
-                            </section>
-                        </div>
-                        
+                    <section>
+                        {{ content }}
                     </section>
 
-                    <div class="row">
-                        <div class="col-12">
-                            <a name="about"></a><h2>About</h2>
-                        </div>
-                    </div>
-
-                    <div class="row">
-                        
-                        <div class="col-6 col-12-narrower">
-
-                            <section class="box special">
-                                <span class="image featured"><img src="images/pic03.jpg" alt="Photo of John" /></span>
-                                <h3>JFA Training</h3>
-                                <p>John Fothergill is a qualified first aid specialist, with over 30 years working in schools and outdoor pursuits.</p>
-                                <p>His courses are highly practical and interactive, with plenty of time to reflect on what you are learning.</p>
-                            </section>
-
-                        </div>
-                        <div class="col-6 col-12-narrower">
-
-                            <section class="box special">
-                                <span class="image featured" style="height: 189px;"><img src="images/itcfirst-logo.gif" style="margin-left: auto; margin-right:auto; width: 300px; padding: 20px 5px 5px 5px;" alt="ITC First logo" /></span>
-                                <h3>ITC First</h3>
-                                <p>ITC First is the industry leading awarding body for UK first aid training and JFA Training is an accredited provider of ITC courses.</p>
-
-                                <ul class="actions special">
-                                    <li><a href="https://www.itcfirst.org.uk/about.htm" target="_blank" class="button alt">Learn More about ITC</a></li>
-                                </ul>
-                            </section>
-
-                        </div>
-                    </div>
-
-                </section>
+                    
 
             <!-- CTA -->
-                <section id="cta"><a name="contact"></a>
-                    
-                    <h2>Contact John</h2>
-                    <p>Either use the form below to email John, or call #### ### ####</p>
-                    <p>By getting in touch, you accept that we will store your contact details in our database, and that we will use them to according to our <a href="./privacy">privacy policy</a>.</p>
-                    <form>
-                        <div class="row gtr-50 gtr-uniform">
-                            <div class="col-12 col-12-mobilep">
-                                <input type="text" name="name" id="name" placeholder="Your name" />
-                            </div>
-                            <div class="col-12 col-12-mobilep">
-                                <input type="text" name="organisation" id="organisation" placeholder="Your organisation" />
-                            </div>
-                            <div class="col-12 col-12-mobilep">
-                                <input type="text" name="phone" id="phone" placeholder="Your phone number" />
-                            </div>
-                            <div class="col-12 col-12-mobilep">
-                                <input type="email" name="email" id="email" placeholder="Your email address" />
-                            </div>
-                            <div class="col-12 col-12-mobilep">
-                                <textarea name="message" id="message">Your message</textarea>
-                            </div>
-                            <div class="col-12 col-12-mobilep">
-                                <input type="checkbox" name="consent" id="consent" value="yes" />
-                                <label for="consent">I give consent for JFA Training to use my contact details to provide me with information about other products &amp; services which may be of interest to me</label>
-                            </div>
-                            <div class="col-12 col-12-mobilep">
-                                <input type="submit" value="Send" class="fit" />
-                            </div>
-                        </div>
-                    </form>
+                
 
-                </section>
-
-            <!-- Footer -->
-                <footer id="footer">
-                    <ul class="icons">
-                        <!--<li><a href="https://www.linkedin.com/in/john-fothergill-5877a4115" target="_blank" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
-                        <li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-                        <li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-                        <li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
-                        <li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
-                        <li><a href="#" class="icon brands fa-google-plus"><span class="label">Google+</span></a></li>-->
-                    </ul>
-                    <ul class="copyright">
-                        <li>&copy;&nbsp;<script type="text/javascript">
-  document.write(new Date().getFullYear());
-</script>&nbsp;John Fothergill. All rights reserved.</li><li>Design: <a href="http://html5up.net" target="_blank">HTML5 UP</a></li><li>Website build: <a href="https://mark.berthelemy.net" target="_blank">Mark Berthelemy</a></li>
-                    </ul>
-                </footer>
+            {% include footer.html %}
 
         </div>
 
-        <!-- Scripts -->
-            <script src="assets/js/jquery.min.js"></script>
-            <script src="assets/js/jquery.dropotron.min.js"></script>
-            <script src="assets/js/jquery.scrollex.min.js"></script>
-            <script src="assets/js/browser.min.js"></script>
-            <script src="assets/js/breakpoints.min.js"></script>
-            <script src="assets/js/util.js"></script>
-            <script src="assets/js/main.js"></script>
+    {% include scripts.html %}
 
     </body>
 </html>
