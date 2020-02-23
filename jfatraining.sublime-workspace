@@ -1,0 +1,1334 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"im",
+				"important"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"jquery",
+				"jqueryValidate"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"feat",
+				"feature-content"
+			],
+			[
+				"m",
+				"mainitem"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"list",
+				"listing-header"
+			],
+			[
+				"get",
+				"getFilesRecursive"
+			],
+			[
+				"c",
+				"disc"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"gsc",
+				"gsc-search-button"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"b",
+				"border-top"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"con",
+				"contactus"
+			],
+			[
+				"bord",
+				"border-top"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"sl",
+				"slider"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"slid",
+				"slide-element"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"str2",
+				"str2output"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"re",
+				"responderID"
+			],
+			[
+				"res",
+				"responderID"
+			],
+			[
+				"form",
+				"formValidation"
+			],
+			[
+				"Crea",
+				"createdAtVar"
+			],
+			[
+				"em",
+				"emailVar"
+			],
+			[
+				"dep",
+				"departmentVar"
+			],
+			[
+				"de",
+				"departmentVar"
+			],
+			[
+				"las",
+				"lastnameVar"
+			],
+			[
+				"fir",
+				"firstnameVar"
+			],
+			[
+				"i",
+				"itemsArray"
+			],
+			[
+				"di",
+				"distinctCategory"
+			],
+			[
+				"Se",
+				"Session"
+			],
+			[
+				"pl",
+				"playerNameVar"
+			],
+			[
+				"Sel",
+				"selectedPlayer"
+			],
+			[
+				"selected",
+				"selectedPlayer"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"select",
+				"selectedPlayer"
+			],
+			[
+				"ban",
+				"background-color"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"play",
+				"playerId"
+			],
+			[
+				"se",
+				"selectedPlayer"
+			],
+			[
+				"p",
+				"PlayersList"
+			],
+			[
+				"st",
+				"start"
+			],
+			[
+				"s",
+				"start"
+			],
+			[
+				"end",
+				"enddate"
+			],
+			[
+				"star",
+				"startdate"
+			],
+			[
+				"pr",
+				"processData"
+			],
+			[
+				"head",
+				"headline"
+			],
+			[
+				"spread",
+				"spreadsheetID"
+			],
+			[
+				"pub",
+				"public_spreadsheet_url"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"ex",
+				"extractGroups"
+			],
+			[
+				"vis",
+				"visData"
+			],
+			[
+				"vi",
+				"visData"
+			],
+			[
+				"date",
+				"dateFormat"
+			],
+			[
+				"dat",
+				"dateFormat"
+			],
+			[
+				"com",
+				"com"
+			],
+			[
+				"a",
+				"activity"
+			],
+			[
+				"obje",
+				"objectType"
+			],
+			[
+				"testform",
+				"testform"
+			],
+			[
+				"Login",
+				"loginForm"
+			],
+			[
+				"pre",
+				"previousItem"
+			],
+			[
+				"home",
+				"homePageURL"
+			],
+			[
+				"menu",
+				"menuSetup"
+			],
+			[
+				"it",
+				"iterator"
+			],
+			[
+				"dept",
+				"depth1"
+			],
+			[
+				"docs",
+				"docsDir"
+			],
+			[
+				"direc",
+				"directories"
+			],
+			[
+				"direct",
+				"directory"
+			],
+			[
+				"dire",
+				"directories"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"UR",
+				"URLfileName"
+			],
+			[
+				"URL",
+				"URLfileName"
+			],
+			[
+				"hom",
+				"homePageURL"
+			],
+			[
+				"news",
+				"newstring2"
+			],
+			[
+				"new",
+				"newstring1"
+			],
+			[
+				"wiki",
+				"wikiname"
+			],
+			[
+				"strp",
+				"strpos"
+			],
+			[
+				"homepag",
+				"homePageURL"
+			],
+			[
+				"page",
+				"pageTitle"
+			],
+			[
+				"create",
+				"createPageName"
+			],
+			[
+				"cat",
+				"category"
+			],
+			[
+				"cate",
+				"categoryTemp"
+			],
+			[
+				"arr",
+				"array	$… = array (…)"
+			],
+			[
+				"categ",
+				"category"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"pa",
+				"pageName"
+			],
+			[
+				"array",
+				"array_chunk"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"out",
+				"outputFileName"
+			],
+			[
+				"course",
+				"courseFileName"
+			],
+			[
+				"userFil",
+				"userFileName"
+			],
+			[
+				"ar",
+				"arg"
+			],
+			[
+				"__",
+				"__name__"
+			],
+			[
+				"wsl_",
+				"wsl_helloworld"
+			],
+			[
+				"wsl_he",
+				"wsl_helloworld_menu"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"margn",
+				"margin-right"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 10,
+				"line_ending": "Unix",
+				"name": "*.sublime*"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 11980,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "privacy/index.html",
+			"settings":
+			{
+				"buffer_size": 10119,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "credits.md",
+			"settings":
+			{
+				"buffer_size": 333,
+				"line_ending": "Unix",
+				"name": "Image credits:"
+			}
+		},
+		{
+			"file": "assets/css/overrides.css",
+			"settings":
+			{
+				"buffer_size": 1392,
+				"line_ending": "Unix",
+				"name": "overrides.css"
+			}
+		},
+		{
+			"file": "/Users/markberthelemy/Zoho Docs/clients/McCruddenTraining/Moodle Glossary.xml",
+			"settings":
+			{
+				"buffer_size": 3264,
+				"line_ending": "Unix",
+				"name": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>"
+			}
+		},
+		{
+			"file": "/Users/markberthelemy/Downloads/okf_xml@moodle.fprm",
+			"settings":
+			{
+				"buffer_size": 1058,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/markberthelemy/Downloads/pack1/work/backup-moodle2-course-5-pestsmart_diagnostics_2/activities/label_17/label.xml.xlf",
+			"settings":
+			{
+				"buffer_size": 2030,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/markberthelemy/Downloads/backup-moodle2-course-5-pestsmart_diagnostics_2/activities/book_71/book.xml",
+			"settings":
+			{
+				"buffer_size": 3649,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/css/main.css",
+			"settings":
+			{
+				"buffer_size": 64243,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 287.0,
+		"selected_items":
+		[
+			[
+				"match",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"js",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: p",
+				"Package Control: Discover Packages"
+			],
+			[
+				"",
+				"Code Folding: Fold Tag Attributes"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/markberthelemy/Documents/Code/mark.berthelemy.net/mark.berthelemy.net.sublime-project",
+		"/Users/markberthelemy/Zoho Docs/clients/JFAtraining/website/assets/css/fontawesome-all.min.css",
+		"/Users/markberthelemy/Zoho Docs/clients/JFAtraining/website/jfatraining.sublime-project",
+		"/Users/markberthelemy/Downloads/pack1/original/backup-moodle2-course-5-pestsmart_diagnostics_2/activities/book_71/book.xml",
+		"/Users/markberthelemy/Downloads/pack1/work/backup-moodle2-course-5-pestsmart_diagnostics_2/activities/book_71/book.xml.xlf",
+		"/Users/markberthelemy/temp/EI-uk/sp38-backup/index.php",
+		"/Users/markberthelemy/temp/EI-uk/.htaccess",
+		"/Users/markberthelemy/temp/db/supplier-reconciliation-mac/content.xml",
+		"/Users/markberthelemy/Google Drive/WyverSolutions/Clients/02-CURRENT/005-Knowledgepool/Digital Supplier Workflow/03-solution-design/10-remediation/remediation-process-flow-v0.1.svg",
+		"/Users/markberthelemy/Desktop/EFH.Mark.Berthelemy.txt",
+		"/Users/markberthelemy/Documents/Code/commune/Gemfile.lock",
+		"/Users/markberthelemy/Documents/Code/mark.berthelemy.net/mark.berthelemy.net.sublime-workspace",
+		"/Users/markberthelemy/Documents/Code/berthelemy.net/TODO.md",
+		"/Users/markberthelemy/Documents/Code/berthelemy.net/index.html",
+		"/Users/markberthelemy/Documents/Code/berthelemy.net/assets/js/lib/history/jquery.history.js",
+		"/Users/markberthelemy/Documents/Code/berthelemy.net/assets/js/lib/url/url.min.js",
+		"/Users/markberthelemy/Documents/Code/berthelemy.net/assets/js/i18n/en.json",
+		"/Users/markberthelemy/Documents/Code/berthelemy.net/i18n/languages.json",
+		"/Users/markberthelemy/Google Drive/Wyver Solutions/beyond_elearning.md",
+		"/Users/markberthelemy/Google Drive/nuageIT/grav-site/user/pages/02.about/computer-1591018_640.jpg",
+		"/Users/markberthelemy/Google Drive/nuageIT/grav-site/user/themes/antimatter-child/templates/partials/base.html.twig",
+		"/Users/markberthelemy/Google Drive/nuageIT/grav-site/user/pages/02.about/default.en.md",
+		"/Users/markberthelemy/Google Drive/nuageIT/grav-site/user/themes/antimatter-child/templates/portfolio.html.twig",
+		"/Users/markberthelemy/Google Drive/nuageIT/grav-site/user/pages/04.contact/form.en.md",
+		"/Users/markberthelemy/Google Drive/nuageIT/grav-site/user/pages/03.services/listing.fr.md",
+		"/Users/markberthelemy/Google Drive/nuageIT/grav-site/user/themes/antimatter/templates/partials/blog_item.html.twig",
+		"/Users/markberthelemy/Google Drive/nuageIT/grav-site/user/themes/antimatter-child/templates/listing.html.twig",
+		"/Users/markberthelemy/Google Drive/nuageIT/grav-site/user/pages/03.services/03.email/listing_item.en.md",
+		"/Users/markberthelemy/Google Drive/nuageIT/grav-site/user/themes/antimatter-child/templates/listing_item.html.twig",
+		"/Users/markberthelemy/Google Drive/nuageIT/grav-site/user/themes/antimatter-child/scss/template/_colors.scss",
+		"/Users/markberthelemy/Google Drive/nuageIT/grav-site/user/themes/antimatter-child/blueprints/listing_item.yaml",
+		"/Users/markberthelemy/Google Drive/nuageIT/grav-site/user/themes/antimatter-child/css/custom.css",
+		"/Users/markberthelemy/Google Drive/nuageIT/grav-site/user/pages/01.home/home.md",
+		"/Users/markberthelemy/Documents/Code/book.wyversolutions.co.uk/020-people/index.md",
+		"/Users/markberthelemy/Documents/Code/book.wyversolutions.co.uk/100-principles-product-and-project-management/50-lean-canvas.md",
+		"/Users/markberthelemy/Documents/Code/book.wyversolutions.co.uk/120-mechanics-of-products-projects/index.md",
+		"/Users/markberthelemy/Documents/Code/book.wyversolutions.co.uk/100-product-and-project-management/index.md",
+		"/Users/markberthelemy/Documents/Code/book.wyversolutions.co.uk/100-principles-product-and-project-management/index.md",
+		"/Users/markberthelemy/Documents/Code/book.wyversolutions.co.uk/GLOSSARY.md",
+		"/Users/markberthelemy/Documents/Code/book.wyversolutions.co.uk/010-license/index.md",
+		"/Users/markberthelemy/Documents/Code/book.wyversolutions.co.uk/README.md",
+		"/Users/markberthelemy/Documents/Code/book.wyversolutions.co.uk/070-publishing/index.md",
+		"/Users/markberthelemy/Documents/Code/book.wyversolutions.co.uk/050-projects/index.md",
+		"/Users/markberthelemy/Documents/Code/book.wyversolutions.co.uk/040-processes/index.md",
+		"/Users/markberthelemy/Documents/Code/book.wyversolutions.co.uk/140-advanced-products-and-projects/index.md",
+		"/Users/markberthelemy/Documents/Code/book.wyversolutions.co.uk/400-recommended-reading/index.md",
+		"/Users/markberthelemy/Documents/Code/book.wyversolutions.co.uk/200-principles-learning-design/index.md",
+		"/Users/markberthelemy/Documents/Code/book.wyversolutions.co.uk/240-advanced-learning-design/index.md",
+		"/Users/markberthelemy/Documents/Code/book.wyversolutions.co.uk/_layouts/website/page.html",
+		"/Users/markberthelemy/Documents/Code/book.wyversolutions.co.uk/220-mechanics-learning-design/index.md",
+		"/Users/markberthelemy/Documents/Code/book.wyversolutions.co.uk/300-principles-technology/index.md",
+		"/Users/markberthelemy/Documents/Code/book.wyversolutions.co.uk/340-advanced-technology/index.md",
+		"/Users/markberthelemy/Documents/Code/book.wyversolutions.co.uk/320-mechanics-technology/index.md",
+		"/Users/markberthelemy/Documents/Code/book.wyversolutions.co.uk/030-products/05-lean-principles.md",
+		"/Users/markberthelemy/Documents/Code/book.wyversolutions.co.uk/100-dev-notes/index.md",
+		"/Users/markberthelemy/Documents/Code/book.wyversolutions.co.uk/030-products/10-lean-canvas.md",
+		"/Users/markberthelemy/temp/preset-BoostImage (2).scss",
+		"/Users/markberthelemy/Documents/Code/book.wyversolutions.co.uk/.gitignore",
+		"/Users/markberthelemy/Documents/Code/book.wyversolutions.co.uk/30-products/index.md",
+		"/Users/markberthelemy/Documents/Code/book.wyversolutions.co.uk/20-people/index.md",
+		"/Users/markberthelemy/Documents/Code/book.wyversolutions.co.uk/book.json",
+		"/Users/markberthelemy/Documents/Code/book.wyversolutions.co.uk/SUMMARY.md",
+		"/Users/markberthelemy/Google Drive/Wyver Solutions/Clients/Starfish Entreprise Services/theme-pack/madetwo-master/index.html",
+		"/Users/markberthelemy/Library/Application Support/Garmin/Maps/Openfietsmap Brittany.gmap/Info.xml",
+		"/Users/markberthelemy/Documents/Code/wyver-solutions/_layouts/home.html",
+		"/Users/markberthelemy/Documents/Code/wyver-solutions/_includes/footer.html",
+		"/Users/markberthelemy/Documents/Code/wyver-solutions/_layouts/post.html",
+		"/Users/markberthelemy/Documents/Code/wyver-solutions/_people/steve.md",
+		"/Users/markberthelemy/Documents/Code/wyver-solutions/_people/vanessa.md",
+		"/Users/markberthelemy/Documents/Code/wyver-solutions/assets/overrides.css",
+		"/Users/markberthelemy/Documents/Code/wyver-solutions/_includes/people.html",
+		"/Users/markberthelemy/Documents/Code/wyver-solutions/20-about.md",
+		"/Users/markberthelemy/Documents/Code/wyver-solutions/_posts/2016-12-02-learning-materials-quality-assurance.md",
+		"/Users/markberthelemy/Documents/Code/wyver-solutions/_posts/2017-04-17-systems-implementation-process.md",
+		"/Users/markberthelemy/Documents/Code/wyver-solutions/_posts/2017-02-17-advice-for-a-new-starter.md",
+		"/Users/markberthelemy/Library/Application Support/Sublime Text 2/Packages/User/target.snippet",
+		"/Users/markberthelemy/Documents/Code/belpercommunitychurch/_includes/head.html",
+		"/Users/markberthelemy/Documents/Code/belpercommunitychurch/_includes/javascripts.html",
+		"/Users/markberthelemy/Documents/Code/belpercommunitychurch/_includes/page_header.html",
+		"/Users/markberthelemy/Documents/Code/belpercommunitychurch/_layouts/default.html",
+		"/Users/markberthelemy/Documents/Code/belpercommunitychurch/_config.yml",
+		"/Users/markberthelemy/Documents/Code/belpercommunitychurch/_includes/header.html",
+		"/Users/markberthelemy/Documents/Code/belpercommunitychurch/_layouts/home.html",
+		"/Users/markberthelemy/Documents/Code/belpercommunitychurch/_layouts/page.html",
+		"/Users/markberthelemy/Documents/Code/belpercommunitychurch/_events/sundays.md",
+		"/Users/markberthelemy/Documents/Code/belpercommunitychurch/_pages/about/index.html",
+		"/Users/markberthelemy/Documents/Code/belpercommunitychurch/_sliders/slider1.md",
+		"/Users/markberthelemy/Documents/Code/belpercommunitychurch/_pages/Calendar/index.md",
+		"/Users/markberthelemy/Documents/Code/belpercommunitychurch/themes/Intensely/assets/css/theme-color/orange-theme.css",
+		"/Users/markberthelemy/Documents/Code/belpercommunitychurch/_markups-intensely-v-2/Intensely/assets/css/theme-color/orange-theme.css",
+		"/Users/markberthelemy/Documents/Code/jekyll-scorm/.gitignore",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/02-personal-reflections-on-learning/credit_for_the_term_learning_conversations.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/02-personal-reflections-on-learning/elevator_pitch_-_expanded.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/02-personal-reflections-on-learning/face-to-face_training_and_me.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/03-online-learning/README.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/list-files.js",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/.gitignore",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/.bookignore",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/02-personal-reflections-on-learning/cool_cat_teacher_blog_how_to_create_your_circle_of.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/02-personal-reflections-on-learning/command_&_control_vs_learning_anarchy.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/02-personal-reflections-on-learning/changes_in_the_last_ten_years.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/02-personal-reflections-on-learning/README.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/README.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/SUMMARY.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/02-me-as-a-learner/README.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/25-social-networks/README.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/70-software/README.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/35-publishing/README.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/25-social-networks.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/30-learning-design/README.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/75-tools/README.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/80-society/README.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/80-society.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/85-project-management/README.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/90-education/README.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/elearnspace_connectivism_a_learning_theory_for_the.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/90-education.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/85-project-management.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/75-tools.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/40-conferences/README.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/30-learning-design.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/30-learning-design/learning-made-easy.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/30-learning-design/designing-a-large-scale-learning-programme.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/70-software/to-open-source-or-not.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/styles/pdf.css",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/02-online-learning/README.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/02-online-learning/we-want-to-buy-a-learning-module.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/02-online-learning/the-king-is-dead.md"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"<open folders>",
+			"/Users/markberthelemy/Documents/Code/Learning Conversations book",
+			"/Users/markberthelemy/Documents/Code/wyver-solutions",
+			"/Users/markberthelemy/Documents/Code/wyver-solutions,-*/_site.txt",
+			"/Users/markberthelemy/Documents/Code/wyver-solutions,-_site.txt",
+			"/Users/markberthelemy/Documents/Code/wyver-solutions",
+			"/Users/markberthelemy/Documents/Code/wyver-solutions/_posts",
+			"<open folders>",
+			"/Users/markberthelemy/Documents/Code/microblog/app",
+			"/Users/markberthelemy/temp/24tips wp",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"contact",
+			"img",
+			"phone",
+			"0",
+			"<?",
+			"banner",
+			"cur",
+			"*",
+			"data-source-setting-value>file:",
+			"hsqldb",
+			"source",
+			"modern",
+			"clear",
+			"icon",
+			"height",
+			"sort",
+			"ffi",
+			"crmWeb",
+			"header",
+			"nav",
+			"about-",
+			"cooki",
+			"artic",
+			"contact",
+			"intro",
+			"bg",
+			"header",
+			"default-animation",
+			"logo",
+			"my ",
+			"us  ",
+			"I ",
+			"me",
+			"me ",
+			"I  ",
+			"I ",
+			"I",
+			"ul",
+			"h4",
+			"h3",
+			"services",
+			"side",
+			"feature",
+			"hover",
+			"10",
+			"feature",
+			"25px",
+			"padd",
+			"continue",
+			"order",
+			"gloss",
+			"pattern",
+			"●   ",
+			"Net Dimensions",
+			"inn",
+			";\n",
+			"h2",
+			"include base.html",
+			"exportlc.php_files",
+			"boxbl",
+			"thumb",
+			"font-s",
+			"four",
+			".small",
+			"foot",
+			"font-size",
+			"13px",
+			"&",
+			"\"",
+			"instance",
+			"###",
+			">",
+			"<",
+			"###",
+			"  ",
+			"rel=nofollow ",
+			"<em>",
+			"<p>",
+			"</p>",
+			"</strong></p>",
+			"##",
+			"<p><strong>",
+			"'",
+			"img",
+			"assets",
+			"'",
+			"•   ",
+			"–",
+			"-",
+			"side",
+			"mdash",
+			"troub",
+			"time",
+			"testimonials",
+			"nav-bar",
+			"nav-wrap",
+			"menu",
+			"Meet our team",
+			"55a2a6",
+			"###",
+			"##",
+			"#",
+			"base",
+			"L&D ",
+			" &amp;D ",
+			" & ",
+			"&D",
+			" & ",
+			"&",
+			"&amp",
+			"&",
+			"ASSET_PATH",
+			"kitch",
+			"test",
+			"border",
+			"cover",
+			"service",
+			"hover",
+			"font",
+			"phone",
+			"header",
+			"slider",
+			"color",
+			"goodtoknow",
+			"#contactus",
+			"slider",
+			"font",
+			"navbar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"our ",
+			"us ",
+			"we ",
+			"us  ",
+			"- ",
+			"assets",
+			"six",
+			">",
+			"<",
+			" ",
+			"  ",
+			" ",
+			"### ",
+			"",
+			"\\n",
+			"\\n\\n",
+			"\\r\\r",
+			"\\r",
+			"",
+			"## ",
+			"##",
+			"&rsquo;",
+			"/post-images/2014/11",
+			"+ ",
+			"&ndash;",
+			"1d76c3",
+			"###",
+			"##",
+			"L&amp;D",
+			" &amp; ",
+			" &amp;D ",
+			"&amp;D",
+			" &amp;",
+			"/activitytype/",
+			"/activitytypes/",
+			"/schema/",
+			"",
+			"<td>&nbsp;</td>",
+			"class=\"tabs",
+			"",
+			">",
+			"",
+			"| ldap_id | ldap_knownname | ldap_host | ldap_port | ldap_username                      | ldap_password | ldap_basedn                          | ldap_filter | ldap_filter_attr |",
+			"# ",
+			"",
+			"<br />",
+			"",
+			"(./images"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"settings":
+					{
+						"buffer_size": 10,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10,
+								10
+							]
+						],
+						"settings":
+						{
+							"auto_name": "*.sublime*",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 11980,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10098,
+								10098
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6972.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "privacy/index.html",
+					"settings":
+					{
+						"buffer_size": 10119,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1135,
+								1135
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3759.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "credits.md",
+					"settings":
+					{
+						"buffer_size": 333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								333,
+								333
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Image credits:",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "assets/css/overrides.css",
+					"settings":
+					{
+						"buffer_size": 1392,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								277,
+								277
+							]
+						],
+						"settings":
+						{
+							"auto_name": "overrides.css",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/markberthelemy/Zoho Docs/clients/McCruddenTraining/Moodle Glossary.xml",
+					"settings":
+					{
+						"buffer_size": 3264,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3264,
+								3264
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>",
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1207.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/markberthelemy/Downloads/okf_xml@moodle.fprm",
+					"settings":
+					{
+						"buffer_size": 1058,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/markberthelemy/Downloads/pack1/work/backup-moodle2-course-5-pestsmart_diagnostics_2/activities/label_17/label.xml.xlf",
+					"settings":
+					{
+						"buffer_size": 2030,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/markberthelemy/Downloads/backup-moodle2-course-5-pestsmart_diagnostics_2/activities/book_71/book.xml",
+					"settings":
+					{
+						"buffer_size": 3649,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "assets/css/main.css",
+					"settings":
+					{
+						"buffer_size": 64243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32142,
+								32188
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 47177.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/markberthelemy/Documents/Code/docs.berthelemy.net/docs.berthelemy.net.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true
+}
