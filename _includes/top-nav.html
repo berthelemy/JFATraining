@@ -1,6 +1,68 @@
+
+
 <!-- Nav -->                        
+<!-- Menu code from: https://sebnitu.com/2016/10/13/dynamic-menus-in-jekyll/ -->
+
 <nav id="nav">
+
+    {% assign pages = (site.pages | sort: 'order') %}
+
     <ul>
+        {% if page.url == '/' %}
+            <li class="current"><a href="/">Home</a></li>
+            {% else %}
+            <li><a href="/">Home</a></li>
+        {% endif %}
+{% for node in pages %}
+{% assign node_parts = node.url | split: '/' %}
+    {% assign node_depth = node_parts | size %}
+    {% if node_depth == 2 %}
+        {% if node.menu == true %}
+            {% if page.url contains node.url %}
+                <li class="current"><a href="{{ node.url }}">{{ node.title }}</a>
+                {% else %}
+                <li><a href="{{ node.url }}">{{ node.title }}</a>
+            {% endif %}
+        {% endif %}
+
+        {% assign node_root = '/' | append: node_parts[1] | append: '/' %}
+
+        {% assign has_children = false %}
+        {% for node in pages %}
+            {% if node.url contains node_root and node.url != node_root %}
+                {% assign has_children = true %}
+            {% endif %}
+            
+        {% endfor %}
+
+        {% if has_children == true %}
+        <ul>
+            {% for subnode in pages %}
+                {% if subnode.url contains node_root and subnode.url != node_root %}
+                    {% assign node_parts = subnode.url | split: '/' %}
+                    {% assign node_depth = node_parts | size %}
+                    {% if node_depth == 3 %}
+
+                        {% if node.menu == true %}
+                            {% if page.url contains node.url %}
+                                <li class="current"><a href="{{ subnode.url }}">{{ subnode.title }}</a></li>
+                                {% else %}
+                                <li><a href="{{ subnode.url }}">{{ subnode.title }}</a></li>
+                            {% endif %}
+                        {% endif %}
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+        </ul>
+        {% endif %}
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+
+
+
+   <!-- <ul>
         <li class="current"><a href="/">Home</a></li>
         <li>
             <a href="/courses">Courses</a>
@@ -24,5 +86,5 @@
         <li><a href="/about">About</a></li>
         <li><a href="/contact">Contact</a></li>
         
-    </ul>
+    </ul> -->
 </nav>

@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<!-- Highlights -->
+                <section class="wrapper-home style1">
+                    <div class="container">
+                        <div class="row gtr-200">
+                            {% assign courses = site.pages | sort: 'order' | where_exp: "item" , "item.path contains 'courses'" %}
+                            {% for item in courses %}
+                            {% if item.title != "Courses" %}
+                                <section class="col-6 col-12-narrower">
+                                <div class="box highlight">
+                                    <i class="icon solid major fa-first-aid"></i>
+                                    <h3><a href="{{ item.permalink }}">{{ item.title }} {{ item.abbrev }}</a></h3>
+                                    <div class="course-summary">
+                                        <p>{{ item.summary }}</p>
+                                        <p>{{ item.summary2 }}</p>
+                                    </div>
+                                    <p class="course-length">Length: {{ item.length }}</p>
+
+                                </div>
+                            </section>
+                            {% endif %}
+                            {% endfor %}
+                            
+                        </div>
+                    </div>
+                </section>
+
+                <!-- CTA -->
+                <section id="cta" class="wrapper style3">
+                    <div class="container">
+                        <header>
+                            <h2>Do you want to find out more?</h2>
+                            <a href="/contact" class="button">Get in touch</a>
+                        </header>
+                    </div>
+                </section>
+
