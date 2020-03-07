@@ -9,9 +9,9 @@
 
     <ul>
         {% if page.url == '/' %}
-            <li class="current"><a href="/">Home</a></li>
+            <li class="current"><a href="{{ site.baseurl }}/">Home</a></li>
             {% else %}
-            <li><a href="/">Home</a></li>
+            <li><a href="{{ site.baseurl }}/">Home</a></li>
         {% endif %}
 {% for node in pages %}
 {% assign node_parts = node.url | split: '/' %}
@@ -19,9 +19,9 @@
     {% if node_depth == 2 %}
         {% if node.menu == true %}
             {% if page.url contains node.url %}
-                <li class="current"><a href="{{ node.url }}">{{ node.title }}</a>
+                <li class="current"><a href="{{ site.baseurl }}/{{ node.url }}">{{ node.title }}</a>
                 {% else %}
-                <li><a href="{{ node.url }}">{{ node.title }}</a>
+                <li><a href="{{ site.baseurl }}/{{ node.url }}">{{ node.title }}</a>
             {% endif %}
         {% endif %}
 
@@ -45,9 +45,9 @@
 
                         {% if node.menu == true %}
                             {% if page.url contains node.url %}
-                                <li class="current"><a href="{{ subnode.url }}">{{ subnode.title }}</a></li>
+                                <li class="current"><a href="{{ site.baseurl }}/{{ subnode.url }}">{{ subnode.title }}</a></li>
                                 {% else %}
-                                <li><a href="{{ subnode.url }}">{{ subnode.title }}</a></li>
+                                <li><a href="{{ site.baseurl }}/{{ subnode.url }}">{{ subnode.title }}</a></li>
                             {% endif %}
                         {% endif %}
                     {% endif %}

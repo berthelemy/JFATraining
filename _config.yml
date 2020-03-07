@@ -21,3 +21,5 @@ tagline: Providing quality first aid training to meet your statutory requirement
 
 
 include: ['_pages']
+
+baseurl: /JFAtraining

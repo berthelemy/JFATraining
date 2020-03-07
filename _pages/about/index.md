@@ -21,7 +21,7 @@ His courses are highly practical and interactive, with plenty of time to reflect
 
 ### Accreditation
 
-<img class="image left" src="/images/itcfirst-logo.gif" alt="ITC First logo" />
+<img class="image left" src="{{ site.baseurl }}/images/itcfirst-logo.gif" alt="ITC First logo" />
 
 <a href="https://www.itcfirst.org.uk/" target="_blank">ITC First</a> is the industry leading awarding body for UK first aid training.
 
