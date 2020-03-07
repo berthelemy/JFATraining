@@ -1,6 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+title: Home
 layout: home
+permalink: /
+order: 1
+menu: true
 ---
+All our courses are highly interactive, with plenty of time to reflect on what you're learning.

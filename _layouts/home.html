@@ -5,6 +5,9 @@ layout: default
 <!-- Highlights -->
                 <section class="wrapper-home style1">
                     <div class="container">
+                        <section class="special">
+                            <p>{{ content }}</p>
+                        </section>
                         <div class="row gtr-200">
                             {% assign courses = site.pages | sort: 'order' | where_exp: "item" , "item.path contains 'courses'" %}
                             {% for item in courses %}
@@ -12,7 +15,7 @@ layout: default
                                 <section class="col-6 col-12-narrower">
                                 <div class="box highlight">
                                     <i class="icon solid major fa-first-aid"></i>
-                                    <h3><a href="{{ item.permalink }}">{{ item.title }} {{ item.abbrev }}</a></h3>
+                                    <h3><a href="{{ item.permalink }}">{{ item.title }} ({{ item.abbrev }})</a></h3>
                                     <div class="course-summary">
                                         <p>{{ item.summary }}</p>
                                         <p>{{ item.summary2 }}</p>

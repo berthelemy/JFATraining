@@ -8,3 +8,14 @@ length: 3 days
 order: 5
 permalink: /courses/OFA/
 ---
+### Programme includes
+
+- Roles &amp; responsibilities
+- Dealing with collapse
+- CPR
+- Choking
+- Bleeding
+- Shock
+- Major illnesses
+- Torso and limb injuries
+- Environmental effects

@@ -7,21 +7,14 @@ length: 1 day
 order: 1
 permalink: /courses/EFAW/
 ---
-Topics include:
+### Programme includes
     
-- roles &amp; responsibilities
-- assessing incidents
-- dealing with collapse (with and without breathing)
-- choking
-- bleeding
-- shock
-- seizures
-- minor workplace incidents
-- using first aid kit
+- Roles &amp; responsibilities of the First Aider
+- Assessing incidents and appropriate action
+- Dealing with collapse (including seizures)
+- Choking
+- CPR (Cardio-Pulmonary Resuscitation) - including using an AED (Automated External Defibrillator)
+- Bleeding - including dealing with shock
+- Minor workplace injuries and incidents
 
-
-This qualification is designed to provide essential life saving skills. Typical delivery methods are predominantly practical and the course is assessed by continual observation of candidate performance.
-
-This is an ITC Level 3 Award.
-
-<a href="https://www.itcfirst.org.uk/qualifications/itc-level-3-award-in-emergency-first-aid-at-work/95.htm" target="_blank">More information on the ITC qualification</a>
+Certificate is valid for 3 years

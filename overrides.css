@@ -1,16 +1,8 @@
-@media screen and (max-width: 1280px) {
-    #header {
-     /*   padding: 0 0 0 0; */
-    }
+p {
+    margin-bottom: 1em;
 }
 
-@media screen and (max-width: 840px) {
-    #navPanel .link {
-        text-overflow: ellipsis;
-        overflow: hidden;
-        white-space: nowrap;
-    }
-}
+
 
 #header h1 {
 /*    display: none; */
@@ -26,6 +18,7 @@
 
 #banner {
     margin-top: 10em;
+    background-image: url('../../images/istockphoto-906536840-1024x1024.jpg')
 }
 
 .wrapper-home {
@@ -48,4 +41,30 @@ p.course-length {
     float: right;
     text-align: right;
     padding: 3px 3px 3px 6px;
+}
+
+input {
+    float: left;
+    margin-right: 10px;
+    -webkit-appearance: checkbox;
+
+}
+
+@media screen and (max-width: 1280px) {
+    #header {
+     /*   padding: 0 0 0 0; */
+    }
+}
+
+@media screen and (max-width: 840px) {
+
+    #navPanel .link {
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+    }
+
+    #banner {
+        margin-top: 0;
+    }
 }
